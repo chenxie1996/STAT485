@@ -1,1 +1,1 @@
-Read me.
+This is a repository for storing my HW R codes for STAT 485 Machine Learning.
